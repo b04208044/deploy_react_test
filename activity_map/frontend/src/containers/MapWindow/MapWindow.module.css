@@ -1,0 +1,19 @@
+.float {
+    position: fixed; 
+    bottom: 31px;
+    left: 2px;
+    z-index: 55;
+    display: flex;
+    /* flex-direction:  column; */
+}
+
+.Btn {
+    background: #d7e2aa;
+    border-radius: 4px;
+    box-shadow: none;
+}
+.BtnFocus {
+    background: #d18945;
+    border-radius: 4px;
+    box-shadow: none;
+}

@@ -1,0 +1,26 @@
+.header{
+    height: 8vh;
+}
+
+
+.navlink{
+    margin-left: 1vw;
+    padding-right: .3rem;
+    padding-left: .3rem;
+    padding: .5rem 1rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.navlink:hover{
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding-top: 5px;
+}
+
+.header_slidedown{
+    background-color:rgb(52, 58, 64);
+    min-width: 110vw;
+    padding-left: 5vw;
+    margin-left: -5vw;
+    color: rgba(255, 255, 255, 0.5);
+}
